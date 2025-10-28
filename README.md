@@ -15,7 +15,7 @@ One major factor that has made the economy extremely unstable is the tariffs pla
 
 ### Unemployment Rate
 A key indicator of a potential economic downfall is the unemployment rate. Rising unemployment reduces the number of Americans actively contributing to the GDP, which can lead to the overall decline in economic output and financial strength of the United States. As the data displays, there is an increase that has an upward trajectory, which has increased over the past 3 years. This could be a potential indicator that businesses are slowing down their hiring processes due to the uncertainty of the economy, which could be causing the current trajectory of the unemployment rate.
-![Unemployment Rate](unemploymentrate.png)
+![Unemployment Rate](unemployementrate.png)
 
 ### Conclusion
 From the data that is currently available for this current year (2025), and comparing previous years in financial factors, the assumption could be made that there will be financial pressures on a lot of households due to the uncertainty of the economy. This may lead to consumers to adopt more conservative behaviors, reducing overall economic activity, which will freeze the economy and weaken the GDP, and cause a possible recession.
